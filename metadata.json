@@ -1,0 +1,6 @@
+{
+  "name": "HKDSE Economics: National Income Accounting Master",
+  "description": "Interactive learning platform for HKDSE Economics Topic F: National Income Accounting, featuring comprehensive concept guides, formula calculators, real HK cases, and HKDSE past paper practice with automatic marking and diagnostic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
